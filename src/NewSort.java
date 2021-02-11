@@ -15,7 +15,7 @@ public class NewSort {
 
 	public static void main(String[] args) {
 		
-		 int[] arr1 = {9,14,3,2,43,11,58,22};  
+		 int[] arr1 = {20,30,88,11,5,36,49,78,25};  
 	        System.out.println("Array Before Unsorted of Selection Sort");  
 	        for(int i:arr1){  
 	            System.out.print(i+" ");  
